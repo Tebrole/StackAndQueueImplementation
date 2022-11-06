@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StackImplementationTest/1.0.0": {
+        "dependencies": {
+          "PeopleClass": "1.0.0",
+          "QueueImplementation": "1.0.0",
+          "StackImplementation": "1.0.0"
+        },
+        "runtime": {
+          "StackImplementationTest.dll": {}
+        }
+      },
+      "PeopleClass/1.0.0": {
+        "runtime": {
+          "PeopleClass.dll": {}
+        }
+      },
+      "QueueImplementation/1.0.0": {
+        "runtime": {
+          "QueueImplementation.dll": {}
+        }
+      },
+      "StackImplementation/1.0.0": {
+        "runtime": {
+          "StackImplementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackImplementationTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeopleClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueueImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StackImplementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

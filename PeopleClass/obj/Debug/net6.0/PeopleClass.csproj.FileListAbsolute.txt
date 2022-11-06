@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/bin/Debug/net6.0/PeopleClass.deps.json
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/bin/Debug/net6.0/PeopleClass.dll
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/bin/Debug/net6.0/PeopleClass.pdb
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.AssemblyInfo.cs
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.dll
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/refint/PeopleClass.dll
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/PeopleClass.pdb
+/Users/apple/RiderProjects/StackImplementation/PeopleClass/obj/Debug/net6.0/ref/PeopleClass.dll

@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/bin/Debug/net6.0/StackImplementation.deps.json
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/bin/Debug/net6.0/StackImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/bin/Debug/net6.0/StackImplementation.pdb
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.AssemblyInfo.cs
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/refint/StackImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/StackImplementation.pdb
+/Users/apple/RiderProjects/StackImplementation/StackImplementation/obj/Debug/net6.0/ref/StackImplementation.dll

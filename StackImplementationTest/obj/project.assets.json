@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PeopleClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PeopleClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PeopleClass.dll": {}
+        }
+      },
+      "QueueImplementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/QueueImplementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueImplementation.dll": {}
+        }
+      },
+      "StackImplementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StackImplementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StackImplementation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleClass/1.0.0": {
+      "type": "project",
+      "path": "../PeopleClass/PeopleClass.csproj",
+      "msbuildProject": "../PeopleClass/PeopleClass.csproj"
+    },
+    "QueueImplementation/1.0.0": {
+      "type": "project",
+      "path": "../QueueImplementation/QueueImplementation.csproj",
+      "msbuildProject": "../QueueImplementation/QueueImplementation.csproj"
+    },
+    "StackImplementation/1.0.0": {
+      "type": "project",
+      "path": "../StackImplementation/StackImplementation.csproj",
+      "msbuildProject": "../StackImplementation/StackImplementation.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PeopleClass >= 1.0.0",
+      "QueueImplementation >= 1.0.0",
+      "StackImplementation >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/apple/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/apple/RiderProjects/StackImplementation/StackImplementationTest/StackImplementationTest.csproj",
+      "projectName": "StackImplementationTest",
+      "projectPath": "/Users/apple/RiderProjects/StackImplementation/StackImplementationTest/StackImplementationTest.csproj",
+      "packagesPath": "/Users/apple/.nuget/packages/",
+      "outputPath": "/Users/apple/RiderProjects/StackImplementation/StackImplementationTest/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/apple/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/apple/RiderProjects/StackImplementation/PeopleClass/PeopleClass.csproj": {
+              "projectPath": "/Users/apple/RiderProjects/StackImplementation/PeopleClass/PeopleClass.csproj"
+            },
+            "/Users/apple/RiderProjects/StackImplementation/QueueImplementation/QueueImplementation.csproj": {
+              "projectPath": "/Users/apple/RiderProjects/StackImplementation/QueueImplementation/QueueImplementation.csproj"
+            },
+            "/Users/apple/RiderProjects/StackImplementation/StackImplementation/StackImplementation.csproj": {
+              "projectPath": "/Users/apple/RiderProjects/StackImplementation/StackImplementation/StackImplementation.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

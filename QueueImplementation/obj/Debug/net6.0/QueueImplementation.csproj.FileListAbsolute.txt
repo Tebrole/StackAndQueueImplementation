@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/bin/Debug/net6.0/QueueImplementation.deps.json
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/bin/Debug/net6.0/QueueImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/bin/Debug/net6.0/QueueImplementation.pdb
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.AssemblyInfo.cs
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/refint/QueueImplementation.dll
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/QueueImplementation.pdb
+/Users/apple/RiderProjects/StackImplementation/QueueImplementation/obj/Debug/net6.0/ref/QueueImplementation.dll
